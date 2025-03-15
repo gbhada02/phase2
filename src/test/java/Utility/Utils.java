@@ -248,6 +248,15 @@ public static void Fail() {
 //		WebElement ele1 = driver.findElement(By.xpath(""));
 //		
 //		Select s4 = new Select(ele1);
+//		driver.findElement(By.id(""));
+//		driver.findElement(By.xpath(""));
+//		driver.findElement(By.tagName("a"));
+//		driver.findElement(By.partialLinkText("sdsfs"));
+//		//driver.findElement(By.xpath(date))take
+//		
+//		WebElement ele1 = driver.findElement(By.xpath(""));
+//		
+//		Select s4 = new Select(ele1);
 		
 
 		
