@@ -250,11 +250,9 @@ public static void Fail() {
 		Select s4 = new Select(ele1);
 		
 
-		
+		//suhwsjwsj
 	}
-//Locators
-	//1) id 
-		
+
 
 }
 
