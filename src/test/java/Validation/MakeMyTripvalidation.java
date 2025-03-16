@@ -19,7 +19,7 @@ public class MakeMyTripvalidation extends Utils implements Locators  {
 	
 	public void login() throws InterruptedException, IOException {
 		String ganesh = "Ganesh";
-		
+		int i = 232323;
 		click(Locators.cancel);
 		click(Locators.fromCity);
 		sendKeys(Locators.inputfromcity,"Mum");
